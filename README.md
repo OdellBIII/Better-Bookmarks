@@ -1,2 +1,2 @@
-# basic-bookmark-reminder
-Chrome extension that opens sites that you wished to browse at a later time.
+# Better Bookmarks
+A Chrome extension designed to remind you of bookmarks you saved hours before.
